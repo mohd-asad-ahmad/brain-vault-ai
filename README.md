@@ -1,4 +1,4 @@
-# Second Brain AI — Phase 1
+# Brain Vault — Phase 1
 
 Local, Python-only foundation for a student study assistant: subjects, chapters, difficulty tracking, and analytics. **No AI features yet** — structured for future Ollama / RAG integration.
 
