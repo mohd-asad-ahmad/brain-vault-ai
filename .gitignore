@@ -1,0 +1,9 @@
+vector_db/
+uploads/
+data/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+.env
+models/
